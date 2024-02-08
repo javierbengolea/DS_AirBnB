@@ -1,0 +1,7 @@
+total 13
+0 drwxr-xr-x 1 javier 197121    0 feb.  6 21:03 datasets/
+0 -rw-r--r-- 1 javier 197121    0 feb.  6 21:03 lookup.txt
+0 drwxr-xr-x 1 javier 197121    0 feb.  6 20:48 proyecto/
+1 -rw-r--r-- 1 javier 197121   80 feb.  6 20:46 README.md
+4 -rw-r--r-- 1 javier 197121  667 feb.  6 20:54 requirements.txt
+8 -rw-r--r-- 1 javier 197121 5828 mar. 10  2023 TP Integrador-2.md

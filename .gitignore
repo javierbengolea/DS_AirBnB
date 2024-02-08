@@ -1,0 +1,5 @@
+datasets/calendar.csv
+datasets/calendar_limpio.csv
+datasets/listings.csv
+datasets/reviews.csv
+datasets/*.csv
